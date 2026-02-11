@@ -2,7 +2,7 @@
 EA1 for wsu CPT_S 427
 
 Deliverable Specific Content
-THe deliverable was to use IBM Bob with the skills we had learned during the various presentations to produce a proof of concept of something we chose. 
+The deliverable was to use IBM Bob with the skills we had learned during the various presentations to produce a proof of concept of something we chose. 
 
 During my time at the virtual event I decided to prioritize going to most of the lectures that were offered to learn more about how to use something like IBM bob and how normal
 people at IBM make use of IBM Bob. I did not have much time after the presentations wtih my schedule so I decided to use IBM Bob to make a simple PST -> EST and EST -> PST time
